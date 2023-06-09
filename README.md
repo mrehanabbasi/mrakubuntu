@@ -10,5 +10,6 @@ After Ubuntu Server is installed, log in and type the following commands:
 ```bash
 git clone https://github.com/mrehanabbasi/mrakubuntu
 cd mrakubuntu
+sudo chmod +x install.sh
 sudo ./install.sh
 ```
